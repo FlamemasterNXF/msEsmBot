@@ -19,8 +19,6 @@ coverage
 .grunt
 bower_components
 .lock-wscript
-build/Release
-node_modules/
 jspm_packages/
 typings/
 .npm
